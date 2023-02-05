@@ -15,7 +15,7 @@ apt update
 apt install open-jdk-8
 ```
 ## Publisher
-demo@devlops
+devops.example.local
 
 ## copyrignt @devops.example.local
 2023
