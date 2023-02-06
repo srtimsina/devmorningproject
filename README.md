@@ -14,6 +14,7 @@ To setup this project, run the following in the terminal.
 apt update
 apt install open-jdk-8
 apt install net-tools
+apt install vim -y
 ```
 
 ## Publisher
