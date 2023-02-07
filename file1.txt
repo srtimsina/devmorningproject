@@ -1,8 +1,2 @@
-Hello, Goodmorning!
-we are learning comparision in git
-This is yet another simple change
-This is a new change.
-Adding changes for rebase practice
-Adding yet another rebase te3xti
-New changes on this branch
-New change from the browser
+We are now learing git stashing
+New cahnge after stash
