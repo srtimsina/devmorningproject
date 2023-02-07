@@ -14,11 +14,10 @@ To setup this project, run the following in the terminal.
 apt update
 apt install open-jdk-8
 apt install net-tools
-apt install openjdk
 ```
 
 ## Publisher
 devops.example.local
 
 ## copyrignt @devops.example.local
-2023
+2023 techaxis
